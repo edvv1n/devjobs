@@ -1,0 +1,502 @@
+[
+  {
+    "id": "1",
+    "postedAt": "1h ago",
+    "contract": "Full Time",
+    "position": "Senior Software Engineer",
+    "company": "Google",
+    "location": "United States",
+    "logo": "https://logo.clearbit.com/google.com",
+    "logoBackground": "#4285F4"
+  },
+  {
+    "id": "2",
+    "postedAt": "3h ago",
+    "contract": "Part Time",
+    "position": "Product Manager",
+    "company": "Microsoft",
+    "location": "United Kingdom",
+    "logo": "https://logo.clearbit.com/microsoft.com",
+    "logoBackground": "#F25022"
+  },
+  {
+    "id": "3",
+    "postedAt": "5h ago",
+    "contract": "Full Time",
+    "position": "Data Scientist",
+    "company": "Amazon",
+    "location": "Germany",
+    "logo": "https://logo.clearbit.com/amazon.com",
+    "logoBackground": "#FF9900"
+  },
+  {
+    "id": "4",
+    "postedAt": "8h ago",
+    "contract": "Freelance",
+    "position": "iOS Engineer",
+    "company": "Apple",
+    "location": "Japan",
+    "logo": "https://logo.clearbit.com/apple.com",
+    "logoBackground": "#A2AAAD"
+  },
+  {
+    "id": "5",
+    "postedAt": "12h ago",
+    "contract": "Part Time",
+    "position": "UX Designer",
+    "company": "Spotify",
+    "location": "Sweden",
+    "logo": "https://logo.clearbit.com/spotify.com",
+    "logoBackground": "#1DB954"
+  },
+  {
+    "id": "6",
+    "postedAt": "1d ago",
+    "contract": "Full Time",
+    "position": "DevOps Engineer",
+    "company": "Netflix",
+    "location": "United States",
+    "logo": "https://logo.clearbit.com/netflix.com",
+    "logoBackground": "#E50914"
+  },
+  {
+    "id": "7",
+    "postedAt": "1d ago",
+    "contract": "Freelance",
+    "position": "UX Researcher",
+    "company": "Airbnb",
+    "location": "France",
+    "logo": "https://logo.clearbit.com/airbnb.com",
+    "logoBackground": "#FF5A5F"
+  },
+  {
+    "id": "8",
+    "postedAt": "2d ago",
+    "contract": "Full Time",
+    "position": "Frontend Developer",
+    "company": "Facebook",
+    "location": "Canada",
+    "logo": "https://logo.clearbit.com/facebook.com",
+    "logoBackground": "#1877F2"
+  },
+  {
+    "id": "9",
+    "postedAt": "2d ago",
+    "contract": "Part Time",
+    "position": "Backend Developer",
+    "company": "IBM",
+    "location": "India",
+    "logo": "https://logo.clearbit.com/ibm.com",
+    "logoBackground": "#054ADA"
+  },
+  {
+    "id": "10",
+    "postedAt": "3d ago",
+    "contract": "Full Time",
+    "position": "Cloud Infrastructure Engineer",
+    "company": "DigitalOcean",
+    "location": "Netherlands",
+    "logo": "https://logo.clearbit.com/digitalocean.com",
+    "logoBackground": "#0080FF"
+  },
+  {
+    "id": "11",
+    "postedAt": "3d ago",
+    "contract": "Full Time",
+    "position": "Site Reliability Engineer",
+    "company": "Uber",
+    "location": "Brazil",
+    "logo": "https://logo.clearbit.com/uber.com",
+    "logoBackground": "#000000"
+  },
+  {
+    "id": "12",
+    "postedAt": "4d ago",
+    "contract": "Part Time",
+    "position": "Mobile App Developer",
+    "company": "Lyft",
+    "location": "United States",
+    "logo": "https://logo.clearbit.com/lyft.com",
+    "logoBackground": "#FF00BF"
+  },
+  {
+    "id": "13",
+    "postedAt": "4d ago",
+    "contract": "Freelance",
+    "position": "Full Stack Engineer",
+    "company": "Shopify",
+    "location": "Australia",
+    "logo": "https://logo.clearbit.com/shopify.com",
+    "logoBackground": "#95BF47"
+  },
+  {
+    "id": "14",
+    "postedAt": "5d ago",
+    "contract": "Full Time",
+    "position": "Security Analyst",
+    "company": "Salesforce",
+    "location": "Switzerland",
+    "logo": "https://logo.clearbit.com/salesforce.com",
+    "logoBackground": "#1798C1"
+  },
+  {
+    "id": "15",
+    "postedAt": "5d ago",
+    "contract": "Part Time",
+    "position": "Technical Writer",
+    "company": "Adobe",
+    "location": "France",
+    "logo": "https://logo.clearbit.com/adobe.com",
+    "logoBackground": "#FF0000"
+  },
+  {
+    "id": "16",
+    "postedAt": "6d ago",
+    "contract": "Full Time",
+    "position": "Machine Learning Engineer",
+    "company": "NVIDIA",
+    "location": "China",
+    "logo": "https://logo.clearbit.com/nvidia.com",
+    "logoBackground": "#76B900"
+  },
+  {
+    "id": "17",
+    "postedAt": "1w ago",
+    "contract": "Freelance",
+    "position": "Data Analyst",
+    "company": "Intel",
+    "location": "India",
+    "logo": "https://logo.clearbit.com/intel.com",
+    "logoBackground": "#0071C5"
+  },
+  {
+    "id": "18",
+    "postedAt": "1w ago",
+    "contract": "Full Time",
+    "position": "Network Engineer",
+    "company": "Cisco",
+    "location": "United States",
+    "logo": "https://logo.clearbit.com/cisco.com",
+    "logoBackground": "#1BA0D7"
+  },
+  {
+    "id": "19",
+    "postedAt": "1w ago",
+    "contract": "Part Time",
+    "position": "Embedded Systems Engineer",
+    "company": "Samsung",
+    "location": "South Korea",
+    "logo": "https://logo.clearbit.com/samsung.com",
+    "logoBackground": "#1428A0"
+  },
+  {
+    "id": "20",
+    "postedAt": "1w ago",
+    "contract": "Full Time",
+    "position": "DevOps Consultant",
+    "company": "Oracle",
+    "location": "United Kingdom",
+    "logo": "https://logo.clearbit.com/oracle.com",
+    "logoBackground": "#FF0000"
+  },
+  {
+    "id": "21",
+    "postedAt": "2w ago",
+    "contract": "Part Time",
+    "position": "Product Designer",
+    "company": "Slack",
+    "location": "United States",
+    "logo": "https://logo.clearbit.com/slack.com",
+    "logoBackground": "#4A154B"
+  },
+  {
+    "id": "22",
+    "postedAt": "2w ago",
+    "contract": "Freelance",
+    "position": "UI/UX Engineer",
+    "company": "Atlassian",
+    "location": "Australia",
+    "logo": "https://logo.clearbit.com/atlassian.com",
+    "logoBackground": "#003366"
+  },
+  {
+    "id": "23",
+    "postedAt": "2w ago",
+    "contract": "Full Time",
+    "position": "Infrastructure Architect",
+    "company": "Dropbox",
+    "location": "Canada",
+    "logo": "https://logo.clearbit.com/dropbox.com",
+    "logoBackground": "#007EE5"
+  },
+  {
+    "id": "24",
+    "postedAt": "2w ago",
+    "contract": "Part Time",
+    "position": "DevOps Engineer",
+    "company": "SAP",
+    "location": "Germany",
+    "logo": "https://logo.clearbit.com/sap.com",
+    "logoBackground": "#007ABB"
+  },
+  {
+    "id": "25",
+    "postedAt": "3w ago",
+    "contract": "Full Time",
+    "position": "Cloud Security Engineer",
+    "company": "Palo Alto Networks",
+    "location": "United States",
+    "logo": "https://logo.clearbit.com/paloaltonetworks.com",
+    "logoBackground": "#ED1C24"
+  },
+  {
+    "id": "26",
+    "postedAt": "3w ago",
+    "contract": "Freelance",
+    "position": "Blockchain Developer",
+    "company": "Coinbase",
+    "location": "United States",
+    "logo": "https://logo.clearbit.com/coinbase.com",
+    "logoBackground": "#0052FF"
+  },
+  {
+    "id": "27",
+    "postedAt": "3w ago",
+    "contract": "Full Time",
+    "position": "Mobile Product Manager",
+    "company": "TikTok",
+    "location": "China",
+    "logo": "https://logo.clearbit.com/tiktok.com",
+    "logoBackground": "#000000"
+  },
+  {
+    "id": "28",
+    "postedAt": "1mo ago",
+    "contract": "Part Time",
+    "position": "Data Engineer",
+    "company": "Twitter",
+    "location": "United States",
+    "logo": "https://logo.clearbit.com/x.com",
+    "logoBackground": "#1DA1F2"
+  },
+  {
+    "id": "29",
+    "postedAt": "1mo ago",
+    "contract": "Full Time",
+    "position": "Site Reliability Engineer",
+    "company": "Zoom",
+    "location": "United States",
+    "logo": "https://logo.clearbit.com/zoom.us",
+    "logoBackground": "#2D8CFF"
+  },
+  {
+    "id": "30",
+    "postedAt": "1mo ago",
+    "contract": "Freelance",
+    "position": "Growth Hacker",
+    "company": "Stripe",
+    "location": "Ireland",
+    "logo": "https://logo.clearbit.com/stripe.com",
+    "logoBackground": "#635BFF"
+  },
+  {
+    "id": "31",
+    "postedAt": "1mo ago",
+    "contract": "Part Time",
+    "position": "Payment Integration Engineer",
+    "company": "PayPal",
+    "location": "United States",
+    "logo": "https://logo.clearbit.com/paypal.com",
+    "logoBackground": "#003087"
+  },
+  {
+    "id": "32",
+    "postedAt": "1mo ago",
+    "contract": "Full Time",
+    "position": "Front End Engineer",
+    "company": "Spotify",
+    "location": "Sweden",
+    "logo": "https://logo.clearbit.com/spotify.com",
+    "logoBackground": "#1DB954"
+  },
+  {
+    "id": "33",
+    "postedAt": "1mo ago",
+    "contract": "Freelance",
+    "position": "AR/VR Developer",
+    "company": "Meta",
+    "location": "United States",
+    "logo": "https://logo.clearbit.com/meta.com",
+    "logoBackground": "#1877F2"
+  },
+  {
+    "id": "34",
+    "postedAt": "1mo ago",
+    "contract": "Part Time",
+    "position": "Blockchain Architect",
+    "company": "IBM",
+    "location": "United States",
+    "logo": "https://logo.clearbit.com/ibm.com",
+    "logoBackground": "#054ADA"
+  },
+  {
+    "id": "35",
+    "postedAt": "1mo ago",
+    "contract": "Full Time",
+    "position": "Embedded Linux Engineer",
+    "company": "Intel",
+    "location": "China",
+    "logo": "https://logo.clearbit.com/intel.com",
+    "logoBackground": "#0071C5"
+  },
+  {
+    "id": "36",
+    "postedAt": "1mo ago",
+    "contract": "Freelance",
+    "position": "Data Visualization Engineer",
+    "company": "Tableau",
+    "location": "United States",
+    "logo": "https://logo.clearbit.com/tableau.com",
+    "logoBackground": "#E97627"
+  },
+  {
+    "id": "37",
+    "postedAt": "2mo ago",
+    "contract": "Full Time",
+    "position": "Big Data Engineer",
+    "company": "Cloudera",
+    "location": "United States",
+    "logo": "https://logo.clearbit.com/cloudera.com",
+    "logoBackground": "#DB2828"
+  },
+  {
+    "id": "38",
+    "postedAt": "2mo ago",
+    "contract": "Part Time",
+    "position": "DevOps Architect",
+    "company": "Red Hat",
+    "location": "United States",
+    "logo": "https://logo.clearbit.com/redhat.com",
+    "logoBackground": "#EE0000"
+  },
+  {
+    "id": "39",
+    "postedAt": "2mo ago",
+    "contract": "Freelance",
+    "position": "Cloud Solutions Engineer",
+    "company": "Heroku",
+    "location": "United States",
+    "logo": "https://logo.clearbit.com/heroku.com",
+    "logoBackground": "#6762A6"
+  },
+  {
+    "id": "40",
+    "postedAt": "2mo ago",
+    "contract": "Full Time",
+    "position": "Security Engineer",
+    "company": "CrowdStrike",
+    "location": "United States",
+    "logo": "https://logo.clearbit.com/crowdstrike.com",
+    "logoBackground": "#F04E31"
+  },
+  {
+    "id": "41",
+    "postedAt": "3mo ago",
+    "contract": "Part Time",
+    "position": "Full Stack Developer",
+    "company": "GitHub",
+    "location": "United States",
+    "logo": "https://logo.clearbit.com/github.com",
+    "logoBackground": "#181717"
+  },
+  {
+    "id": "42",
+    "postedAt": "3mo ago",
+    "contract": "Full Time",
+    "position": "Site Reliability Engineer",
+    "company": "GitLab",
+    "location": "United States",
+    "logo": "https://logo.clearbit.com/gitlab.com",
+    "logoBackground": "#FC6D26"
+  },
+  {
+    "id": "43",
+    "postedAt": "3mo ago",
+    "contract": "Freelance",
+    "position": "DevOps Specialist",
+    "company": "DigitalOcean",
+    "location": "Singapore",
+    "logo": "https://logo.clearbit.com/digitalocean.com",
+    "logoBackground": "#0080FF"
+  },
+  {
+    "id": "44",
+    "postedAt": "3mo ago",
+    "contract": "Part Time",
+    "position": "API Developer",
+    "company": "Twilio",
+    "location": "Canada",
+    "logo": "https://logo.clearbit.com/twilio.com",
+    "logoBackground": "#F22F46"
+  },
+  {
+    "id": "45",
+    "postedAt": "4mo ago",
+    "contract": "Full Time",
+    "position": "Accessibility Engineer",
+    "company": "Microsoft",
+    "location": "Australia",
+    "logo": "https://logo.clearbit.com/microsoft.com",
+    "logoBackground": "#F25022"
+  },
+  {
+    "id": "46",
+    "postedAt": "4mo ago",
+    "contract": "Freelance",
+    "position": "UI Engineer",
+    "company": "Adobe",
+    "location": "France",
+    "logo": "https://logo.clearbit.com/adobe.com",
+    "logoBackground": "#FF0000"
+  },
+  {
+    "id": "47",
+    "postedAt": "4mo ago",
+    "contract": "Full Time",
+    "position": "Android Developer",
+    "company": "Samsung",
+    "location": "South Korea",
+    "logo": "https://logo.clearbit.com/samsung.com",
+    "logoBackground": "#1428A0"
+  },
+  {
+    "id": "48",
+    "postedAt": "5mo ago",
+    "contract": "Part Time",
+    "position": "Cloud Architect",
+    "company": "Amazon Web Services",
+    "location": "United States",
+    "logo": "https://logo.clearbit.com/aws.amazon.com",
+    "logoBackground": "#FF9900"
+  },
+  {
+    "id": "49",
+    "postedAt": "5mo ago",
+    "contract": "Freelance",
+    "position": "Blockchain Engineer",
+    "company": "IBM",
+    "location": "United States",
+    "logo": "https://logo.clearbit.com/ibm.com",
+    "logoBackground": "#054ADA"
+  },
+  {
+    "id": "50",
+    "postedAt": "6mo ago",
+    "contract": "Full Time",
+    "position": "Head of Engineering",
+    "company": "Salesforce",
+    "location": "United Kingdom",
+    "logo": "https://logo.clearbit.com/salesforce.com",
+    "logoBackground": "#1798C1"
+  }
+]
