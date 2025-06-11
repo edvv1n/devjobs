@@ -1,9 +1,12 @@
-import React from 'react'
+import React from "react";
+import Header from "./components/Header";
 
 const App = () => {
   return (
-    <div className='bg-red-900'>===</div>
-  )
-}
+    <div className="flex flex-col items-center">
+      <Header />
+    </div>
+  );
+};
 
-export default App
+export default App;
