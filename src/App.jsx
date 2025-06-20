@@ -2,7 +2,7 @@ import React, { useContext } from "react";
 import Header from "./components/Header";
 import JobCard from "./components/JobCard";
 import data from "./assets/data.json";
-import { ThemeContext } from "./context/themeContext";
+import { ThemeContext } from "./context/ThemeContext";
 import { useState } from "react";
 
 const App = () => {
