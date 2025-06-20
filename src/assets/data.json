@@ -7,7 +7,7 @@
     "company": "Google",
     "location": "United States",
     "logo": "https://logo.clearbit.com/google.com",
-    "logoBackground": "#4285F4"
+    "logoBackground": "#fffeff"
   },
   {
     "id": "2",
@@ -47,7 +47,7 @@
     "company": "Spotify",
     "location": "Sweden",
     "logo": "https://logo.clearbit.com/spotify.com",
-    "logoBackground": "#1DB954"
+    "logoBackground": "#fffeff"
   },
   {
     "id": "6",
@@ -87,7 +87,7 @@
     "company": "IBM",
     "location": "India",
     "logo": "https://logo.clearbit.com/ibm.com",
-    "logoBackground": "#054ADA"
+    "logoBackground": "#fffeff"
   },
   {
     "id": "10",
@@ -97,7 +97,7 @@
     "company": "DigitalOcean",
     "location": "Netherlands",
     "logo": "https://logo.clearbit.com/digitalocean.com",
-    "logoBackground": "#0080FF"
+    "logoBackground": "#fffeff"
   },
   {
     "id": "11",
@@ -137,7 +137,7 @@
     "company": "Salesforce",
     "location": "Switzerland",
     "logo": "https://logo.clearbit.com/salesforce.com",
-    "logoBackground": "#1798C1"
+    "logoBackground": "#fffeff"
   },
   {
     "id": "15",
@@ -177,7 +177,7 @@
     "company": "Cisco",
     "location": "United States",
     "logo": "https://logo.clearbit.com/cisco.com",
-    "logoBackground": "#1BA0D7"
+    "logoBackground": "#fffeff"
   },
   {
     "id": "19",
@@ -237,7 +237,7 @@
     "company": "SAP",
     "location": "Germany",
     "logo": "https://logo.clearbit.com/sap.com",
-    "logoBackground": "#007ABB"
+    "logoBackground": "#fffeff"
   },
   {
     "id": "25",
@@ -247,7 +247,7 @@
     "company": "Palo Alto Networks",
     "location": "United States",
     "logo": "https://logo.clearbit.com/paloaltonetworks.com",
-    "logoBackground": "#ED1C24"
+    "logoBackground": "#fffeff"
   },
   {
     "id": "26",
@@ -276,7 +276,7 @@
     "position": "Data Engineer",
     "company": "Twitter",
     "location": "United States",
-    "logo": "https://logo.clearbit.com/x.com",
+    "logo": "https://logo.clearbit.com/twitter.com",
     "logoBackground": "#1DA1F2"
   },
   {
@@ -287,7 +287,7 @@
     "company": "Zoom",
     "location": "United States",
     "logo": "https://logo.clearbit.com/zoom.us",
-    "logoBackground": "#2D8CFF"
+    "logoBackground": "#fffeff"
   },
   {
     "id": "30",
@@ -317,7 +317,7 @@
     "company": "Spotify",
     "location": "Sweden",
     "logo": "https://logo.clearbit.com/spotify.com",
-    "logoBackground": "#1DB954"
+    "logoBackground": "#fffeff"
   },
   {
     "id": "33",
@@ -327,7 +327,7 @@
     "company": "Meta",
     "location": "United States",
     "logo": "https://logo.clearbit.com/meta.com",
-    "logoBackground": "#1877F2"
+    "logoBackground": "#fffeff"
   },
   {
     "id": "34",
@@ -337,7 +337,7 @@
     "company": "IBM",
     "location": "United States",
     "logo": "https://logo.clearbit.com/ibm.com",
-    "logoBackground": "#054ADA"
+    "logoBackground": "#fffeff"
   },
   {
     "id": "35",
@@ -367,7 +367,7 @@
     "company": "Cloudera",
     "location": "United States",
     "logo": "https://logo.clearbit.com/cloudera.com",
-    "logoBackground": "#DB2828"
+    "logoBackground": "#fffeff"
   },
   {
     "id": "38",
@@ -377,7 +377,7 @@
     "company": "Red Hat",
     "location": "United States",
     "logo": "https://logo.clearbit.com/redhat.com",
-    "logoBackground": "#EE0000"
+    "logoBackground": "#fffeff"
   },
   {
     "id": "39",
@@ -407,7 +407,7 @@
     "company": "GitHub",
     "location": "United States",
     "logo": "https://logo.clearbit.com/github.com",
-    "logoBackground": "#181717"
+    "logoBackground": "#FC6D26"
   },
   {
     "id": "42",
@@ -417,7 +417,7 @@
     "company": "GitLab",
     "location": "United States",
     "logo": "https://logo.clearbit.com/gitlab.com",
-    "logoBackground": "#FC6D26"
+    "logoBackground": "#fffeff"
   },
   {
     "id": "43",
@@ -427,7 +427,7 @@
     "company": "DigitalOcean",
     "location": "Singapore",
     "logo": "https://logo.clearbit.com/digitalocean.com",
-    "logoBackground": "#0080FF"
+    "logoBackground": "#fffeff"
   },
   {
     "id": "44",
@@ -437,7 +437,7 @@
     "company": "Twilio",
     "location": "Canada",
     "logo": "https://logo.clearbit.com/twilio.com",
-    "logoBackground": "#F22F46"
+    "logoBackground": "#fffeff"
   },
   {
     "id": "45",
@@ -487,7 +487,7 @@
     "company": "IBM",
     "location": "United States",
     "logo": "https://logo.clearbit.com/ibm.com",
-    "logoBackground": "#054ADA"
+    "logoBackground": "#fffeff"
   },
   {
     "id": "50",
@@ -497,6 +497,6 @@
     "company": "Salesforce",
     "location": "United Kingdom",
     "logo": "https://logo.clearbit.com/salesforce.com",
-    "logoBackground": "#1798C1"
+    "logoBackground": "#fffeff"
   }
 ]
