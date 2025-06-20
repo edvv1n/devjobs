@@ -3,7 +3,7 @@ import { IoSunny } from "react-icons/io5";
 import { IoMoon } from "react-icons/io5";
 import { FaMagnifyingGlass } from "react-icons/fa6";
 import { FaLocationDot } from "react-icons/fa6";
-import { ThemeContext } from "../context/themeContext";
+import { ThemeContext } from "../context/ThemeContext";
 
 const Header = ({ filteredJobs }) => {
   const { theme, toggleTheme } = useContext(ThemeContext);
